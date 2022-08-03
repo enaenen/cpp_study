@@ -34,6 +34,7 @@ int main()
     std::cout << std::endl;
     /*
     setiosflags
+    std::ios => basic_ios class
     
     */
     for (int i = 0; i < 4; i++)
