@@ -28,8 +28,14 @@ void TestFunc(void)
     Add(3, 4);
 }
 
+int func(int a, int b)
+{
+    return a+b;
+}
+
 int main(void)
 {
     int nResult = TEST::TestFunc();
+    
     std::cout << nResult << std::endl;
 }
