@@ -12,8 +12,4 @@ int main( void ) {
 	std::cout << randomNumber << std::endl;
 	randomNumber = rand();
 	std::cout << randomNumber << std::endl;
-	randomNumber = rand();
-	std::cout << randomNumber << std::endl;
-	randomNumber = rand();
-	std::cout << randomNumber << std::endl;
 }
