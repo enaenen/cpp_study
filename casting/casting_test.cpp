@@ -8,5 +8,6 @@ int main( void ) {
 
 	// std::cout << i1, i2, i3 << std::endl;
 	std::cout << *dbl << std::endl;
+	//잘못된 변환
 	std::cout << *i2 << std::endl;
 }
